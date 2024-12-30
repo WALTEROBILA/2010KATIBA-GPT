@@ -19,7 +19,7 @@ langchainhub = "^0.1.21"
 pypdf = "^5.1.0"
 sentence_transformers = "^3.3.1"
 langchain_huggingface = "^0.1.2"
-huggingface_hub = "^0.27.0"
+huggingface_hub = "^0.23.0"
 streamlit = "^1.41.1"
 
 [build-system]
