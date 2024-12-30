@@ -13,4 +13,4 @@ sentence_transformers
 langchain_huggingface 
 huggingface_hub
 streamlit
-dotenv
+python-dotenv

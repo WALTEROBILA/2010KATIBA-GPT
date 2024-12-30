@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "2010katibba-gpt"
+version = "1"
+description = "Chat with the 2010 Constitution of Kenya"
+authors = ["WALTEROBILA <aderobila@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.3.13"
+python-dotenv = "^1.0.1"
+streamlit = "^1.41.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
