@@ -1,0 +1,16 @@
+langchain 
+langchain-openai 
+python-dotenv 
+langchain 
+langchain-community 
+langchain-anthropic 
+langchain-google-genai 
+langchain-google-firestore 
+chromadb 
+langchainhub 
+pypdf 
+sentence_transformers 
+langchain_huggingface 
+huggingface_hub
+streamlit
+dotenv
